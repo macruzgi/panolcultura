@@ -1,0 +1,7 @@
+prestamoControlador.php
+reservation-update-view.php
+prestamoAjax.php
+prestamoModelo.php
+invoice.php
+
+ALTER TABLE panol.detalle ADD estado_item TINYINT DEFAULT 0 NOT NULL;
